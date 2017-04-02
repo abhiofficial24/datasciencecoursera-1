@@ -1,2 +1,0 @@
-# datasciencecoursera
-submission of assignment
